@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406855910302",
+    "project_id": "bookmanagementapp-a5268",
+    "storage_bucket": "bookmanagementapp-a5268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406855910302:android:1095fb8dd757e11e554c8f",
+        "android_client_info": {
+          "package_name": "com.example.book_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqyWTqVwvu31D69smh3mIDXBqSTL07nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
